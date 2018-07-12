@@ -1,0 +1,463 @@
+date_year,country,count,CountryName,CapitalName,CapitalLatitude,CapitalLongitude,CountryCode,ContinentName
+1990-01-01,Switzerland,1,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+1996-01-01,Switzerland,1,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+1997-01-01,Switzerland,4,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+1998-01-01,Switzerland,9,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+1999-01-01,Switzerland,1,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2000-01-01,Switzerland,3,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2001-01-01,Switzerland,5,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2002-01-01,Switzerland,2,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2003-01-01,Switzerland,4,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2004-01-01,Switzerland,4,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2005-01-01,Switzerland,4,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2006-01-01,Switzerland,19,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2007-01-01,Switzerland,10,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2008-01-01,Switzerland,5,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2009-01-01,Switzerland,4,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2010-01-01,Switzerland,7,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2011-01-01,Switzerland,5,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2012-01-01,Switzerland,1,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2013-01-01,Switzerland,6,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2015-01-01,Switzerland,1,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2016-01-01,Switzerland,2,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+2017-01-01,Switzerland,1,Switzerland,Bern,46.91666666666666,7.466667,CH,Europe
+1990-01-01,United States of America,1,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1993-01-01,United States of America,7,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1994-01-01,United States of America,5,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1995-01-01,United States of America,19,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1996-01-01,United States of America,19,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1997-01-01,United States of America,28,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1998-01-01,United States of America,20,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1999-01-01,United States of America,32,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2000-01-01,United States of America,15,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2001-01-01,United States of America,24,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2002-01-01,United States of America,31,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2003-01-01,United States of America,18,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2004-01-01,United States of America,23,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2005-01-01,United States of America,33,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2006-01-01,United States of America,55,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2007-01-01,United States of America,83,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2008-01-01,United States of America,59,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2009-01-01,United States of America,42,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2010-01-01,United States of America,29,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2011-01-01,United States of America,16,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2012-01-01,United States of America,16,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2013-01-01,United States of America,10,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2014-01-01,United States of America,4,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2015-01-01,United States of America,6,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2016-01-01,United States of America,6,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2017-01-01,United States of America,5,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+2018-01-01,United States of America,2,United States of America,Washington D.C.,38.883333,-77.0,US,Central America
+1991-01-01,United Kingdom,1,United Kingdom,London,51.5,-0.083333,GB,Europe
+1994-01-01,United Kingdom,8,United Kingdom,London,51.5,-0.083333,GB,Europe
+1995-01-01,United Kingdom,14,United Kingdom,London,51.5,-0.083333,GB,Europe
+1996-01-01,United Kingdom,23,United Kingdom,London,51.5,-0.083333,GB,Europe
+1997-01-01,United Kingdom,35,United Kingdom,London,51.5,-0.083333,GB,Europe
+1998-01-01,United Kingdom,25,United Kingdom,London,51.5,-0.083333,GB,Europe
+1999-01-01,United Kingdom,24,United Kingdom,London,51.5,-0.083333,GB,Europe
+2000-01-01,United Kingdom,27,United Kingdom,London,51.5,-0.083333,GB,Europe
+2001-01-01,United Kingdom,25,United Kingdom,London,51.5,-0.083333,GB,Europe
+2002-01-01,United Kingdom,24,United Kingdom,London,51.5,-0.083333,GB,Europe
+2003-01-01,United Kingdom,9,United Kingdom,London,51.5,-0.083333,GB,Europe
+2004-01-01,United Kingdom,14,United Kingdom,London,51.5,-0.083333,GB,Europe
+2005-01-01,United Kingdom,27,United Kingdom,London,51.5,-0.083333,GB,Europe
+2006-01-01,United Kingdom,61,United Kingdom,London,51.5,-0.083333,GB,Europe
+2007-01-01,United Kingdom,90,United Kingdom,London,51.5,-0.083333,GB,Europe
+2008-01-01,United Kingdom,74,United Kingdom,London,51.5,-0.083333,GB,Europe
+2009-01-01,United Kingdom,69,United Kingdom,London,51.5,-0.083333,GB,Europe
+2010-01-01,United Kingdom,39,United Kingdom,London,51.5,-0.083333,GB,Europe
+2011-01-01,United Kingdom,32,United Kingdom,London,51.5,-0.083333,GB,Europe
+2012-01-01,United Kingdom,22,United Kingdom,London,51.5,-0.083333,GB,Europe
+2013-01-01,United Kingdom,14,United Kingdom,London,51.5,-0.083333,GB,Europe
+2014-01-01,United Kingdom,20,United Kingdom,London,51.5,-0.083333,GB,Europe
+2015-01-01,United Kingdom,8,United Kingdom,London,51.5,-0.083333,GB,Europe
+2016-01-01,United Kingdom,10,United Kingdom,London,51.5,-0.083333,GB,Europe
+2017-01-01,United Kingdom,13,United Kingdom,London,51.5,-0.083333,GB,Europe
+1992-01-01,Canada,2,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1993-01-01,Canada,2,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1994-01-01,Canada,1,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1995-01-01,Canada,1,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1996-01-01,Canada,1,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1997-01-01,Canada,2,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1998-01-01,Canada,7,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1999-01-01,Canada,4,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2000-01-01,Canada,9,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2001-01-01,Canada,16,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2002-01-01,Canada,6,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2003-01-01,Canada,8,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2004-01-01,Canada,14,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2005-01-01,Canada,15,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2006-01-01,Canada,24,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2007-01-01,Canada,36,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2008-01-01,Canada,29,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2009-01-01,Canada,22,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2010-01-01,Canada,20,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2011-01-01,Canada,9,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2012-01-01,Canada,11,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2013-01-01,Canada,5,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2015-01-01,Canada,1,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+2016-01-01,Canada,3,Canada,Ottawa,45.41666666666666,-75.7,CA,Central America
+1992-01-01,Germany,1,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1993-01-01,Germany,2,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1994-01-01,Germany,6,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1995-01-01,Germany,18,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1996-01-01,Germany,44,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1997-01-01,Germany,45,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1998-01-01,Germany,51,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1999-01-01,Germany,62,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2000-01-01,Germany,102,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2001-01-01,Germany,89,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2002-01-01,Germany,84,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2003-01-01,Germany,47,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2004-01-01,Germany,69,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2005-01-01,Germany,105,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2006-01-01,Germany,257,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2007-01-01,Germany,329,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2008-01-01,Germany,314,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2009-01-01,Germany,289,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2010-01-01,Germany,149,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2011-01-01,Germany,130,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2012-01-01,Germany,69,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2013-01-01,Germany,53,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2014-01-01,Germany,27,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2015-01-01,Germany,21,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2016-01-01,Germany,24,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2017-01-01,Germany,12,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+2018-01-01,Germany,2,Germany,Berlin,52.51666666666666,13.4,DE,Europe
+1992-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+1994-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+1995-01-01,Italy,2,Italy,Rome,41.9,12.483333,IT,Europe
+1999-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+2002-01-01,Italy,5,Italy,Rome,41.9,12.483333,IT,Europe
+2003-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+2005-01-01,Italy,3,Italy,Rome,41.9,12.483333,IT,Europe
+2006-01-01,Italy,15,Italy,Rome,41.9,12.483333,IT,Europe
+2007-01-01,Italy,23,Italy,Rome,41.9,12.483333,IT,Europe
+2008-01-01,Italy,42,Italy,Rome,41.9,12.483333,IT,Europe
+2009-01-01,Italy,40,Italy,Rome,41.9,12.483333,IT,Europe
+2010-01-01,Italy,21,Italy,Rome,41.9,12.483333,IT,Europe
+2011-01-01,Italy,13,Italy,Rome,41.9,12.483333,IT,Europe
+2012-01-01,Italy,5,Italy,Rome,41.9,12.483333,IT,Europe
+2013-01-01,Italy,4,Italy,Rome,41.9,12.483333,IT,Europe
+2014-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+2015-01-01,Italy,5,Italy,Rome,41.9,12.483333,IT,Europe
+2016-01-01,Italy,7,Italy,Rome,41.9,12.483333,IT,Europe
+2017-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+2018-01-01,Italy,1,Italy,Rome,41.9,12.483333,IT,Europe
+1992-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+1995-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+1996-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+1997-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+1998-01-01,Japan,2,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+1999-01-01,Japan,4,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2000-01-01,Japan,4,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2001-01-01,Japan,4,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2002-01-01,Japan,3,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2004-01-01,Japan,3,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2005-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2006-01-01,Japan,4,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2007-01-01,Japan,5,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2009-01-01,Japan,6,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2010-01-01,Japan,5,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2011-01-01,Japan,9,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2012-01-01,Japan,2,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2013-01-01,Japan,5,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2014-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2015-01-01,Japan,3,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2016-01-01,Japan,2,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+2017-01-01,Japan,1,Japan,Tokyo,35.68333333333333,139.75,JP,Asia
+1993-01-01,Belgium,5,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1994-01-01,Belgium,3,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1995-01-01,Belgium,5,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1996-01-01,Belgium,13,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1997-01-01,Belgium,9,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1998-01-01,Belgium,6,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1999-01-01,Belgium,6,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2000-01-01,Belgium,2,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2001-01-01,Belgium,3,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2002-01-01,Belgium,2,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2003-01-01,Belgium,2,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2005-01-01,Belgium,7,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2006-01-01,Belgium,11,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2007-01-01,Belgium,23,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2008-01-01,Belgium,18,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2009-01-01,Belgium,12,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2010-01-01,Belgium,6,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2011-01-01,Belgium,1,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2012-01-01,Belgium,3,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2013-01-01,Belgium,1,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2014-01-01,Belgium,1,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2015-01-01,Belgium,1,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2016-01-01,Belgium,1,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+2018-01-01,Belgium,1,Belgium,Brussels,50.83333333333334,4.3333330000000005,BE,Europe
+1993-01-01,Finland,2,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+1994-01-01,Finland,5,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+1995-01-01,Finland,3,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+1996-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+1997-01-01,Finland,3,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+1998-01-01,Finland,2,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2002-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2003-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2005-01-01,Finland,5,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2006-01-01,Finland,4,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2007-01-01,Finland,3,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2010-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2011-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2012-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2013-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+2014-01-01,Finland,1,Finland,Helsinki,60.16666666666666,24.933332999999998,FI,Europe
+1994-01-01,Netherlands,5,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+1995-01-01,Netherlands,2,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+1996-01-01,Netherlands,1,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+1997-01-01,Netherlands,6,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+1998-01-01,Netherlands,3,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+1999-01-01,Netherlands,1,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2000-01-01,Netherlands,1,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2002-01-01,Netherlands,4,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2003-01-01,Netherlands,3,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2004-01-01,Netherlands,2,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2005-01-01,Netherlands,1,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2006-01-01,Netherlands,25,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2007-01-01,Netherlands,26,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2008-01-01,Netherlands,26,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2009-01-01,Netherlands,22,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2010-01-01,Netherlands,8,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2011-01-01,Netherlands,14,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2012-01-01,Netherlands,3,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2014-01-01,Netherlands,2,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2015-01-01,Netherlands,3,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2016-01-01,Netherlands,3,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+2017-01-01,Netherlands,2,Netherlands,Amsterdam,52.35,4.9166669999999995,NL,Europe
+1995-01-01,Sweden,5,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+1996-01-01,Sweden,10,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+1997-01-01,Sweden,2,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+1998-01-01,Sweden,3,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+1999-01-01,Sweden,4,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2000-01-01,Sweden,5,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2001-01-01,Sweden,5,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2002-01-01,Sweden,7,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2003-01-01,Sweden,1,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2004-01-01,Sweden,1,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2005-01-01,Sweden,4,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2006-01-01,Sweden,13,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2007-01-01,Sweden,11,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2008-01-01,Sweden,8,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2009-01-01,Sweden,9,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2010-01-01,Sweden,3,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2011-01-01,Sweden,9,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2012-01-01,Sweden,2,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2013-01-01,Sweden,1,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2015-01-01,Sweden,1,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2016-01-01,Sweden,2,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2017-01-01,Sweden,1,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+2018-01-01,Sweden,1,Sweden,Stockholm,59.33333333333334,18.05,SE,Europe
+1995-01-01,Denmark,4,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+1996-01-01,Denmark,3,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+1997-01-01,Denmark,2,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+1998-01-01,Denmark,2,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+1999-01-01,Denmark,1,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2001-01-01,Denmark,1,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2004-01-01,Denmark,5,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2005-01-01,Denmark,9,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2006-01-01,Denmark,9,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2007-01-01,Denmark,9,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2008-01-01,Denmark,11,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2009-01-01,Denmark,3,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2011-01-01,Denmark,1,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2015-01-01,Denmark,1,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+2016-01-01,Denmark,1,Denmark,Copenhagen,55.66666666666666,12.583333,DK,Europe
+1995-01-01,Austria,3,Austria,Vienna,48.2,16.366667,AT,Europe
+1996-01-01,Austria,2,Austria,Vienna,48.2,16.366667,AT,Europe
+1997-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+1998-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+2001-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+2002-01-01,Austria,2,Austria,Vienna,48.2,16.366667,AT,Europe
+2006-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+2007-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+2009-01-01,Austria,2,Austria,Vienna,48.2,16.366667,AT,Europe
+2010-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+2011-01-01,Austria,2,Austria,Vienna,48.2,16.366667,AT,Europe
+2014-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+2016-01-01,Austria,1,Austria,Vienna,48.2,16.366667,AT,Europe
+1995-01-01,France,1,France,Paris,48.86666666666667,2.333333,FR,Europe
+1996-01-01,France,1,France,Paris,48.86666666666667,2.333333,FR,Europe
+1997-01-01,France,3,France,Paris,48.86666666666667,2.333333,FR,Europe
+1998-01-01,France,3,France,Paris,48.86666666666667,2.333333,FR,Europe
+1999-01-01,France,3,France,Paris,48.86666666666667,2.333333,FR,Europe
+2000-01-01,France,7,France,Paris,48.86666666666667,2.333333,FR,Europe
+2001-01-01,France,2,France,Paris,48.86666666666667,2.333333,FR,Europe
+2002-01-01,France,8,France,Paris,48.86666666666667,2.333333,FR,Europe
+2003-01-01,France,8,France,Paris,48.86666666666667,2.333333,FR,Europe
+2004-01-01,France,9,France,Paris,48.86666666666667,2.333333,FR,Europe
+2005-01-01,France,14,France,Paris,48.86666666666667,2.333333,FR,Europe
+2006-01-01,France,12,France,Paris,48.86666666666667,2.333333,FR,Europe
+2007-01-01,France,34,France,Paris,48.86666666666667,2.333333,FR,Europe
+2008-01-01,France,27,France,Paris,48.86666666666667,2.333333,FR,Europe
+2009-01-01,France,21,France,Paris,48.86666666666667,2.333333,FR,Europe
+2010-01-01,France,15,France,Paris,48.86666666666667,2.333333,FR,Europe
+2011-01-01,France,9,France,Paris,48.86666666666667,2.333333,FR,Europe
+2012-01-01,France,6,France,Paris,48.86666666666667,2.333333,FR,Europe
+2013-01-01,France,4,France,Paris,48.86666666666667,2.333333,FR,Europe
+2014-01-01,France,3,France,Paris,48.86666666666667,2.333333,FR,Europe
+2015-01-01,France,3,France,Paris,48.86666666666667,2.333333,FR,Europe
+2016-01-01,France,2,France,Paris,48.86666666666667,2.333333,FR,Europe
+2017-01-01,France,3,France,Paris,48.86666666666667,2.333333,FR,Europe
+1995-01-01,Greece,1,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+1996-01-01,Greece,1,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+1997-01-01,Greece,1,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2005-01-01,Greece,2,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2006-01-01,Greece,2,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2007-01-01,Greece,3,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2008-01-01,Greece,8,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2009-01-01,Greece,7,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2010-01-01,Greece,4,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2013-01-01,Greece,1,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2017-01-01,Greece,1,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+2018-01-01,Greece,4,Greece,Athens,37.98333333333333,23.733333,GR,Europe
+1995-01-01,Slovenia,1,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+1996-01-01,Slovenia,1,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+1997-01-01,Slovenia,1,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+2001-01-01,Slovenia,1,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+2009-01-01,Slovenia,1,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+2010-01-01,Slovenia,2,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+2017-01-01,Slovenia,1,Slovenia,Ljubljana,46.05,14.516667000000002,SI,Europe
+1996-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+1999-01-01,Australia,2,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2000-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2003-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2005-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2006-01-01,Australia,2,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2007-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2008-01-01,Australia,7,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2009-01-01,Australia,2,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2010-01-01,Australia,5,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2016-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+2017-01-01,Australia,1,Australia,Canberra,-35.266666666666666,149.133333,AU,Australia
+1996-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+1997-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+1998-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+1999-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2001-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2002-01-01,Portugal,2,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2005-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2006-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2007-01-01,Portugal,3,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2008-01-01,Portugal,6,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2009-01-01,Portugal,4,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2012-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2013-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+2014-01-01,Portugal,1,Portugal,Lisbon,38.71666666666667,-9.133333,PT,Europe
+1997-01-01,Spain,5,Spain,Madrid,40.4,-3.683333,ES,Europe
+1998-01-01,Spain,2,Spain,Madrid,40.4,-3.683333,ES,Europe
+2002-01-01,Spain,3,Spain,Madrid,40.4,-3.683333,ES,Europe
+2003-01-01,Spain,1,Spain,Madrid,40.4,-3.683333,ES,Europe
+2004-01-01,Spain,3,Spain,Madrid,40.4,-3.683333,ES,Europe
+2005-01-01,Spain,5,Spain,Madrid,40.4,-3.683333,ES,Europe
+2006-01-01,Spain,23,Spain,Madrid,40.4,-3.683333,ES,Europe
+2007-01-01,Spain,22,Spain,Madrid,40.4,-3.683333,ES,Europe
+2008-01-01,Spain,21,Spain,Madrid,40.4,-3.683333,ES,Europe
+2009-01-01,Spain,15,Spain,Madrid,40.4,-3.683333,ES,Europe
+2010-01-01,Spain,7,Spain,Madrid,40.4,-3.683333,ES,Europe
+2011-01-01,Spain,8,Spain,Madrid,40.4,-3.683333,ES,Europe
+2012-01-01,Spain,4,Spain,Madrid,40.4,-3.683333,ES,Europe
+2013-01-01,Spain,2,Spain,Madrid,40.4,-3.683333,ES,Europe
+2014-01-01,Spain,1,Spain,Madrid,40.4,-3.683333,ES,Europe
+2015-01-01,Spain,2,Spain,Madrid,40.4,-3.683333,ES,Europe
+2016-01-01,Spain,1,Spain,Madrid,40.4,-3.683333,ES,Europe
+1997-01-01,Iceland,1,Iceland,Reykjavik,64.15,-21.95,IS,Europe
+1998-01-01,Iceland,1,Iceland,Reykjavik,64.15,-21.95,IS,Europe
+2001-01-01,Iceland,2,Iceland,Reykjavik,64.15,-21.95,IS,Europe
+1997-01-01,New Zealand,1,New Zealand,Wellington,-41.3,174.783333,NZ,Australia
+1999-01-01,New Zealand,1,New Zealand,Wellington,-41.3,174.783333,NZ,Australia
+2001-01-01,New Zealand,1,New Zealand,Wellington,-41.3,174.783333,NZ,Australia
+1998-01-01,Poland,2,Poland,Warsaw,52.25,21.0,PL,Europe
+1999-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2000-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2003-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2004-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2005-01-01,Poland,3,Poland,Warsaw,52.25,21.0,PL,Europe
+2006-01-01,Poland,3,Poland,Warsaw,52.25,21.0,PL,Europe
+2007-01-01,Poland,2,Poland,Warsaw,52.25,21.0,PL,Europe
+2008-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2009-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2014-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+2016-01-01,Poland,1,Poland,Warsaw,52.25,21.0,PL,Europe
+1999-01-01,Chile,2,Chile,Santiago,-33.45,-70.666667,CL,South America
+2009-01-01,Chile,1,Chile,Santiago,-33.45,-70.666667,CL,South America
+2011-01-01,Chile,1,Chile,Santiago,-33.45,-70.666667,CL,South America
+1999-01-01,Turkey,1,Turkey,Ankara,39.93333333333333,32.866667,TR,Europe
+2000-01-01,Czech Republic,2,Czech Republic,Prague,50.08333333333334,14.466667000000001,CZ,Europe
+2007-01-01,Czech Republic,2,Czech Republic,Prague,50.08333333333334,14.466667000000001,CZ,Europe
+2008-01-01,Czech Republic,3,Czech Republic,Prague,50.08333333333334,14.466667000000001,CZ,Europe
+2000-01-01,Argentina,1,Argentina,Buenos Aires,-34.583333333333336,-58.666667000000004,AR,South America
+2008-01-01,Argentina,10,Argentina,Buenos Aires,-34.583333333333336,-58.666667000000004,AR,South America
+2009-01-01,Argentina,8,Argentina,Buenos Aires,-34.583333333333336,-58.666667000000004,AR,South America
+2010-01-01,Argentina,4,Argentina,Buenos Aires,-34.583333333333336,-58.666667000000004,AR,South America
+2000-01-01,Russia,1,Russia,Moscow,55.75,37.6,RU,Europe
+2001-01-01,Russia,3,Russia,Moscow,55.75,37.6,RU,Europe
+2004-01-01,Russia,3,Russia,Moscow,55.75,37.6,RU,Europe
+2005-01-01,Russia,1,Russia,Moscow,55.75,37.6,RU,Europe
+2006-01-01,Russia,2,Russia,Moscow,55.75,37.6,RU,Europe
+2007-01-01,Russia,2,Russia,Moscow,55.75,37.6,RU,Europe
+2008-01-01,Russia,13,Russia,Moscow,55.75,37.6,RU,Europe
+2009-01-01,Russia,1,Russia,Moscow,55.75,37.6,RU,Europe
+2010-01-01,Russia,5,Russia,Moscow,55.75,37.6,RU,Europe
+2011-01-01,Russia,10,Russia,Moscow,55.75,37.6,RU,Europe
+2012-01-01,Russia,14,Russia,Moscow,55.75,37.6,RU,Europe
+2013-01-01,Russia,2,Russia,Moscow,55.75,37.6,RU,Europe
+2014-01-01,Russia,2,Russia,Moscow,55.75,37.6,RU,Europe
+2015-01-01,Russia,1,Russia,Moscow,55.75,37.6,RU,Europe
+2018-01-01,Russia,1,Russia,Moscow,55.75,37.6,RU,Europe
+2002-01-01,Ireland,2,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2004-01-01,Ireland,1,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2009-01-01,Ireland,1,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2010-01-01,Ireland,1,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2013-01-01,Ireland,1,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2014-01-01,Ireland,1,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2018-01-01,Ireland,1,Ireland,Dublin,53.31666666666667,-6.233333,IE,Europe
+2003-01-01,Mexico,1,Mexico,Mexico City,19.433333333333334,-99.133333,MX,Central America
+2013-01-01,Mexico,2,Mexico,Mexico City,19.433333333333334,-99.133333,MX,Central America
+2018-01-01,Mexico,1,Mexico,Mexico City,19.433333333333334,-99.133333,MX,Central America
+2003-01-01,Norway,1,Norway,Oslo,59.91666666666666,10.75,NO,Europe
+2007-01-01,Norway,2,Norway,Oslo,59.91666666666666,10.75,NO,Europe
+2005-01-01,Hong Kong,2,Hong Kong,,0.0,0.0,HK,Asia
+2006-01-01,Hong Kong,1,Hong Kong,,0.0,0.0,HK,Asia
+2007-01-01,Hong Kong,1,Hong Kong,,0.0,0.0,HK,Asia
+2009-01-01,Hong Kong,1,Hong Kong,,0.0,0.0,HK,Asia
+2010-01-01,Hong Kong,2,Hong Kong,,0.0,0.0,HK,Asia
+2007-01-01,Brazil,3,Brazil,Brasilia,-15.783333333333333,-47.916667,BR,South America
+2010-01-01,Brazil,1,Brazil,Brasilia,-15.783333333333333,-47.916667,BR,South America
+2007-01-01,Serbia,2,Serbia,Belgrade,44.83333333333334,20.5,RS,Europe
+2009-01-01,Serbia,1,Serbia,Belgrade,44.83333333333334,20.5,RS,Europe
+2007-01-01,Croatia,1,Croatia,Zagreb,45.8,16.0,HR,Europe
+2008-01-01,Georgia,2,Georgia,Tbilisi,41.68333333333333,44.833333,GE,Europe
+2009-01-01,Honduras,1,Honduras,Tegucigalpa,14.1,-87.216667,HN,Central America
+2009-01-01,Hungary,1,Hungary,Budapest,47.5,19.083333,HU,Europe
+2010-01-01,Hungary,2,Hungary,Budapest,47.5,19.083333,HU,Europe
+2011-01-01,Hungary,1,Hungary,Budapest,47.5,19.083333,HU,Europe
+2012-01-01,Hungary,2,Hungary,Budapest,47.5,19.083333,HU,Europe
+2016-01-01,Hungary,2,Hungary,Budapest,47.5,19.083333,HU,Europe
+2009-01-01,Romania,1,Romania,Bucharest,44.43333333333333,26.1,RO,Europe
+2010-01-01,Romania,1,Romania,Bucharest,44.43333333333333,26.1,RO,Europe
+2011-01-01,Romania,1,Romania,Bucharest,44.43333333333333,26.1,RO,Europe
+2012-01-01,Romania,1,Romania,Bucharest,44.43333333333333,26.1,RO,Europe
+2013-01-01,Romania,2,Romania,Bucharest,44.43333333333333,26.1,RO,Europe
+2015-01-01,Romania,1,Romania,Bucharest,44.43333333333333,26.1,RO,Europe
+2009-01-01,Slovakia,1,Slovakia,Bratislava,48.15,17.116667,SK,Europe
+2010-01-01,Slovakia,1,Slovakia,Bratislava,48.15,17.116667,SK,Europe
+2010-01-01,Israel,3,Israel,Jerusalem,31.766666666666666,35.233333,IL,Asia
+2011-01-01,Israel,2,Israel,Jerusalem,31.766666666666666,35.233333,IL,Asia
+2013-01-01,Israel,1,Israel,Jerusalem,31.766666666666666,35.233333,IL,Asia
+2010-01-01,Colombia,1,Colombia,Bogota,4.6,-74.083333,CO,South America
+2010-01-01,Lithuania,1,Lithuania,Vilnius,54.68333333333333,25.316667000000002,LT,Europe
+2011-01-01,Lithuania,1,Lithuania,Vilnius,54.68333333333333,25.316667000000002,LT,Europe
+2012-01-01,Lithuania,3,Lithuania,Vilnius,54.68333333333333,25.316667000000002,LT,Europe
+2010-01-01,Panama,1,Panama,Panama City,8.966666666666667,-79.533333,PA,Central America
+2010-01-01,Ukraine,1,Ukraine,Kyiv,50.43333333333333,30.516666999999998,UA,Europe
+2011-01-01,Ukraine,2,Ukraine,Kyiv,50.43333333333333,30.516666999999998,UA,Europe
+2012-01-01,Ukraine,3,Ukraine,Kyiv,50.43333333333333,30.516666999999998,UA,Europe
+2013-01-01,Ukraine,1,Ukraine,Kyiv,50.43333333333333,30.516666999999998,UA,Europe
+2015-01-01,Ukraine,1,Ukraine,Kyiv,50.43333333333333,30.516666999999998,UA,Europe
+2016-01-01,Ukraine,1,Ukraine,Kyiv,50.43333333333333,30.516666999999998,UA,Europe
+2012-01-01,Uruguay,1,Uruguay,Montevideo,-34.85,-56.166667000000004,UY,South America
+2013-01-01,Uruguay,1,Uruguay,Montevideo,-34.85,-56.166667000000004,UY,South America
